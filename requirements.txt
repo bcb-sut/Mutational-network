@@ -1,0 +1,14 @@
+plotly==5.5.0
+numpy==1.20.1
+pandas
+networkx==2.5
+matplotlib
+requests
+xlrd==1.2.0
+igraph
+python-louvain
+openpyxl
+kaleido
+
+
+
